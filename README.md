@@ -1,1 +1,2 @@
 # codesoft_taskno.3
+🎉 Just completed my internship task 3 at CodSoft - The ATM Interface Project! 💳💻 Designed a user-friendly ATM interface enabling smooth transactions for users.🌟 Implemented core features like withdrawals, deposits, and balance checks with robust error handling.💫 Grateful for the insights gained in interface design and banking functionalities. Thank you, CodSoft Community, for the opportunity and support! 
